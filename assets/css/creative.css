@@ -347,6 +347,13 @@ header .header-content .header-content-inner p {
     }
 }
 
+form {
+    margin-left: 30%;
+}
+.form-control {
+    width:60%;
+}
+
 .call-to-action h2 {
     margin: 0 auto 20px;
     color: #511C6B;
